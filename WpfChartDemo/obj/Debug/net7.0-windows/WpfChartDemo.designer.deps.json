@@ -1,0 +1,46 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Syncfusion.Licensing/20.4.0.52": {
+        "runtime": {
+          "lib/net7.0-windows7.0/Syncfusion.Licensing.dll": {
+            "assemblyVersion": "20.4600.0.52",
+            "fileVersion": "20.4600.0.52"
+          }
+        }
+      },
+      "Syncfusion.SfChart.WPF/20.4.0.52": {
+        "dependencies": {
+          "Syncfusion.Licensing": "20.4.0.52"
+        },
+        "runtime": {
+          "lib/net6.0-windows7.0/Syncfusion.SfChart.WPF.dll": {
+            "assemblyVersion": "20.4600.0.52",
+            "fileVersion": "20.4600.0.52"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Syncfusion.Licensing/20.4.0.52": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-jhl7OcPoSpRZS2uWwXJouf1kpY1Mc1WzznySOVvMek3+U1RT46StHf7E3K339x6PlLiCEX+kzBSfPIORFte8cw==",
+      "path": "syncfusion.licensing/20.4.0.52",
+      "hashPath": "syncfusion.licensing.20.4.0.52.nupkg.sha512"
+    },
+    "Syncfusion.SfChart.WPF/20.4.0.52": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-XLBK74gC/Iy4aSrKPmfjT4+F/NqcDuXQugysbAjv2oXiEBJDftkl5mJj7D2ZFlEtD9OpsFCSB8WsJARLASGFAA==",
+      "path": "syncfusion.sfchart.wpf/20.4.0.52",
+      "hashPath": "syncfusion.sfchart.wpf.20.4.0.52.nupkg.sha512"
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "7EjVUPyPs7eJs2qSRydf0HcD7hVYrEiwbo1t4cfkZfaEWcVOfQTX2QP3VrYB90W0KVIEyKoFyYb3kMMnlogSug==",
+  "success": true,
+  "projectFilePath": "C:\\DEV\\WpfChartDemo\\WpfChartDemo\\WpfChartDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KarllanaCordovil\\.nuget\\packages\\syncfusion.licensing\\20.4.0.52\\syncfusion.licensing.20.4.0.52.nupkg.sha512",
+    "C:\\Users\\KarllanaCordovil\\.nuget\\packages\\syncfusion.sfchart.wpf\\20.4.0.52\\syncfusion.sfchart.wpf.20.4.0.52.nupkg.sha512"
+  ],
+  "logs": []
+}
