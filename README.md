@@ -15,3 +15,8 @@
         xmlns:local="clr-namespace:WpfChartDemo"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800" >
+        
+        
+        
+        
+- Save and Start.
